@@ -13,7 +13,7 @@ export default function BabylonScene({ antialias, engineOptions, adaptToDeviceRa
         if (!canvas) return;
 
         canvas.width = window.innerWidth;
-        canvas.height = window.innerHeight - 145;
+        canvas.height = window.innerHeight - 94;
 
         const engine = new BABYLON.Engine(canvas, antialias, engineOptions, adaptToDeviceRatio);
         const scene = new BABYLON.Scene(engine, sceneOptions);
