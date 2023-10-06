@@ -1,3 +1,4 @@
+import BabylonScene from "./BabylonScene";
 import CustomScene from "./CustomScene";
 
 const Home = () => {
@@ -5,7 +6,7 @@ const Home = () => {
 
     return (
         <div className="home">
-            <CustomScene />
+            <BabylonScene id="my-canvas" />
         </div>
     );
 }

@@ -46,6 +46,10 @@
   font-weight: bold;
 }
 
+.about .content {
+  padding: 20px;
+}
+
 #my-canvas{
   outline:none
  }

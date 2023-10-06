@@ -2,7 +2,7 @@ const About = () => {
     return (
         <div className="about">
             <div className="title">About</div>
-            <div>
+            <div className="content">
 
 
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ligula turpis, malesuada et pellentesque id, laoreet quis risus. Quisque in molestie quam. Vestibulum viverra aliquam hendrerit. Proin in varius felis. Vestibulum et porttitor quam. Nam a sem elit. Fusce convallis tempus ornare. Donec at enim imperdiet, vehicula nunc quis, egestas ante. Nulla non tempus dolor. Etiam ullamcorper mi eget turpis aliquam ultrices. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque enim nisl, gravida et ullamcorper vel, dapibus a risus.
